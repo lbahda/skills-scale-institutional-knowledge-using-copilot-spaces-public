@@ -115,6 +115,27 @@ Security and Compliance Leads ensure that project decisions, designs, and releas
 
 ---
 
+## QA / Testing Leads
+
+### Role Summary
+QA / Testing Leads define and coordinate validation activities so the team can confidently verify that features meet acceptance criteria, quality standards, and release readiness expectations.
+
+### Responsibilities
+- Define test strategy, scope, and validation approach for each milestone or release
+- Create and maintain quality gates, smoke tests, regression coverage, and acceptance validation plans
+- Coordinate with Developers and Product Managers to ensure edge cases and risk areas are covered
+- Identify quality risks, defects, and release blockers early in the lifecycle
+- Validate readiness for staging and production deployment alongside Release Managers
+
+### Interaction with Existing Roles
+- Partner with Developers on test planning, defect triage, and release confidence
+- Work with Product Managers to confirm that acceptance criteria are testable and measurable
+- Support Project Managers by surfacing quality risks, schedule impacts, and release blockers
+- Coordinate with Security and Compliance Leads on security and compliance validation requirements
+- Collaborate with UX Researchers and Design Partners to include usability and accessibility checks in validation activities
+
+---
+
 ## UX Researchers and Design Partners
 
 ### Role Summary
